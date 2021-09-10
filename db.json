@@ -448,7 +448,6 @@
             "date": "new",
             "reviewNember": "3257"
         },
-
         {
             "id": "rDctfxsySWAJeWD72",
             "name": "Final Spin",
@@ -466,6 +465,6 @@
             "genre": ["novel", "history", "Literature", "Fiction"],
             "date": "new",
             "reviewNember": "3257"
-        },
+        }
     ]
 }
